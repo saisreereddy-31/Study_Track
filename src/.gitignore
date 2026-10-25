@@ -1,0 +1,10 @@
+
+node_modules/
+dist/
+.env
+.env.*
+!.env.example
+server/node_modules/
+server/studytrack.db
+server/studytrack.db-shm
+server/studytrack.db-wal
